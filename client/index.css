@@ -1,0 +1,36 @@
+.Namespace{
+    text-align: center;
+    font-weight: bold;
+    text-size-adjust: inherit;
+    text-size-adjust: initial;
+    text-size-adjust: revert;
+    text-size-adjust: revert-layer;
+    text-size-adjust: unset;
+}
+.Heading{
+    text-align: left;
+    padding-left: 150px;
+    font-size-adjust: .40   ;  
+}
+div{
+    width: 50%;
+    border: 1px solid black;
+    margin: 20px;
+    font-size: 16px;
+    font-size: 2.5vw;
+}
+.Years{
+    text-align: left;
+    padding-left: 150px;
+    font-style: italic;
+    color: darkblue;
+}
+.SmallHeader{
+    text-align: left;
+    padding-left: 150px;
+    color:darkslategrey;
+}
+.Text{
+    text-align: left;
+    padding-left: 150px;
+}
